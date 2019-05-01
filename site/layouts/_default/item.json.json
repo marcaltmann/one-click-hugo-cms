@@ -1,0 +1,5 @@
+{
+  "name": "{{ .Title }}",
+  "role" : "{{ .Params.role }}",
+  "image": "{{ .Params.image }}"
+}
